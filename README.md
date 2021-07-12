@@ -3,6 +3,7 @@ Some stuff to play with AWS and Python
 
 ### What we have here
 `terraform` - contains code to create resources in AWS
+
 `python`- scripts to get info from AWS
 
 ### Requirements

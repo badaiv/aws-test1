@@ -26,6 +26,7 @@ ec2_key_name | key name in your account if you want to access ec2 instance. Impo
 
 To create resources
 ```
+terrafrom init
 terrafrom apply
 ```
 To destroy resources

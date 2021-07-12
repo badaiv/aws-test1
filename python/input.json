@@ -1,0 +1,5 @@
+[
+    { "ec2": "vpcs"},
+    { "ec2": "key_pairs"},
+    { "rds": "db_clusters"}
+  ]
